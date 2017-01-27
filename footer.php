@@ -15,23 +15,6 @@
             <div class="footerIcono">
                 <img class="img-responsive" src="Img/Social/instagram.png">
             </div>
-        
-<!--
-        <span class="app-icon1">
-        </span>
-        <span class="app-icon1"></span>
-        <span class="app-icon1"></span>
--->
-        
-<!--
-    <style type="text/css">
-        .iconofooter{
-            display: inline-block;
-        }
-    </style>
--->
-           
-        
     </footer>
      <script type="text/javascript">
             $("figure").hover(
