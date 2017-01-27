@@ -6,17 +6,15 @@
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             </p>
         </div>
-        <div class="row">
-            <div class="iconofooter">
+            <div class="footerIcono">
                 <img class="img-responsive" src="Img/Social/face.png">
             </div>
-            <div class="iconofooter">
+            <div class="footerIcono">
                 <img class="img-responsive" src="Img/Social/twitter.png">
             </div>
-            <div class="iconofooter">
+            <div class="footerIcono">
                 <img class="img-responsive" src="Img/Social/instagram.png">
             </div>
-        </div>
         
 <!--
         <span class="app-icon1">
@@ -25,11 +23,13 @@
         <span class="app-icon1"></span>
 -->
         
+<!--
     <style type="text/css">
         .iconofooter{
             display: inline-block;
         }
     </style>
+-->
            
         
     </footer>

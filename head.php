@@ -27,7 +27,7 @@
 <!--                        <li><a href="#">Sobre nosotros</a></li>-->
                         <li><a href="proyectos.php">Proyectos</a></li>
                         <li><a href="staff.php">Staff</a></li>
-                        <li><a href="#">Contactanos</a></li>
+                        <li><a href="fansub.php">Fansub</a></li>
                     </ul>
                 </div>
             </div>
