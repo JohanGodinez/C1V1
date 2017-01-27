@@ -1,5 +1,5 @@
-<?php
-    include 'head.php'
+<?php>
+    require 'head.php'
 ?>
 <section class="app-section2">
     <div class="container">
@@ -77,5 +77,5 @@
 </section>
 
 <?php
-    include 'footer.php'
+    require 'footer.php'
 ?>
