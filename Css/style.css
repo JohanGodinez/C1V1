@@ -1,5 +1,5 @@
 /*Barr superior */
-.stlMetro{
+.stlMetrostlMetro{
     border-radius: 0;
 }
 .colorDanger{
@@ -141,4 +141,11 @@ figcaption {
 	background: rgba(0,0,15,.20);
 	color: #0080d6;
     display: none;
+}
+
+
+
+.modal-header{
+    background: rgba(0,0,20,.8);
+    color:#fefefe;
 }

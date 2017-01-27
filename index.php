@@ -1,14 +1,16 @@
-<?php>
+<?php
     require 'head.php'
 ?>
 <section class="app-section2">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-12">
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-4">
                 <br />
-                <h2 class="text-center etiqueta col-md-4 col-md-offset-4">Ultimas Publicaciones</h2>
+                <h2 class="text-center etiqueta">Ultimas Publicaciones</h2>
                 <br />
             </div>
+        </div>
+        <div class="row">
             <figure class="col-xs-12 col-sm-6 col-md-4 fig">
                 <br />
                 <img alt="" class="img-responsive " src="Img/img3.jpg" />
@@ -31,11 +33,13 @@
 <section class="app-section3">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-12">
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-4">
                 <br />
-                <h2 class="text-center etiqueta col-md-4 col-md-offset-4">Publicacion antiguas</h2>
+                <h2 class="text-center etiqueta">Publicacion antiguas</h2>
                 <br />
             </div>
+        </div>
+        <div class="row">
             <figure class="col-xs-12 col-sm-6 col-md-4 fig">
                 <br />
                 <img alt="" class="img-responsive " src="Img/img3.jpg" />
