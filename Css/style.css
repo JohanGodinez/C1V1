@@ -1,18 +1,10 @@
-body {
-}
+/*Barr superior */
 .stlMetro{
     border-radius: 0;
 }
 .colorDanger{
     background: #d43f3a;
     color: #fff;
-}
-.colorSuccess{
-    background: #4cae4c;
-    color: #fff;
-}
-.fire{
-    background: #3ba13b;
 }
 .borderButton{
     border-bottom: 2px solid #3ba13b;
