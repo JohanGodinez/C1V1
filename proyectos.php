@@ -4,20 +4,15 @@
 <section class="app-section2">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-4">
+                <figure class="col-xs-12 col-sm-6 col-md-4 col-md-offset-4" data-toggle="modal" data-target=".bs-example-modal-lg">
                 <br />
-                <h2 class="text-center etiqueta">Proyectos</h2>
-                <br />
-            </div>
+                <img alt="" class="img-responsive " src="Img/Proyectos/Etiquetas/activos.png" />
+            </figure>
         </div>
         <div class="row">
             <figure class="col-xs-12 col-sm-6 col-md-3" data-toggle="modal" data-target=".bs-example-modal-lg">
                 <br />
                 <img alt="" class="img-responsive " src="Img/Proyectos/Alyosha.png" />
-            </figure>
-            <figure class="col-xs-12 col-sm-6 col-md-3">
-                <br />
-                <img alt="" class="img-responsive " src="Img/Proyectos/Classroom.png" />
             </figure>
             <figure class="col-xs-12 col-sm-6 col-md-3">
                 <br />
@@ -93,10 +88,6 @@
             </figure>
             <figure class="col-xs-12 col-sm-6 col-md-3">
                 <br />
-                <img alt="" class="img-responsive " src="Img/Proyectos/NarutoGaiden.png" />
-            </figure>
-            <figure class="col-xs-12 col-sm-6 col-md-3">
-                <br />
                 <img alt="" class="img-responsive " src="Img/Proyectos/OnePiece.png" />
             </figure>
             <figure class="col-xs-12 col-sm-6 col-md-3">
@@ -133,10 +124,6 @@
             </figure>
             <figure class="col-xs-12 col-sm-6 col-md-3">
                 <br />
-                <img alt="" class="img-responsive " src="Img/Proyectos/ToumeiNingen.png" />
-            </figure>
-            <figure class="col-xs-12 col-sm-6 col-md-3">
-                <br />
                 <img alt="" class="img-responsive " src="Img/Proyectos/Tsugumomo.png" />
             </figure>
             <figure class="col-xs-12 col-sm-6 col-md-3">
@@ -150,6 +137,30 @@
             <figure class="col-xs-12 col-sm-6 col-md-3">
                 <br />
                 <img alt="" class="img-responsive " src="Img/Proyectos/YuY.png" />
+            </figure>
+        </div>
+    </div>
+</section>
+<section class="app-section2">
+    <div class="container">
+        <div class="row">
+                <figure class="col-xs-12 col-sm-6 col-md-4 col-md-offset-4" data-toggle="modal" data-target=".bs-example-modal-lg">
+                <br />
+                <img alt="" class="img-responsive " src="Img/Proyectos/Etiquetas/finalizados.png" />
+            </figure>
+        </div>
+        <div class="row">
+            <figure class="col-xs-12 col-sm-6 col-md-3">
+                <br />
+                <img alt="" class="img-responsive " src="Img/Proyectos/Classroom.png" />
+            </figure>
+            <figure class="col-xs-12 col-sm-6 col-md-3">
+                <br />
+                <img alt="" class="img-responsive " src="Img/Proyectos/NarutoGaiden.png" />
+            </figure>
+            <figure class="col-xs-12 col-sm-6 col-md-3">
+                <br />
+                <img alt="" class="img-responsive " src="Img/Proyectos/ToumeiNingen.png" />
             </figure>
         </div>
     </div>
