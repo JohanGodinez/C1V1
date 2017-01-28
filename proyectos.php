@@ -144,7 +144,7 @@
 <section class="app-section2">
     <div class="container">
         <div class="row">
-                <figure class="col-xs-12 col-sm-6 col-md-4 col-md-offset-4" data-toggle="modal" data-target=".bs-example-modal-lg">
+                <figure class="col-xs-10 col-xs-offset-1 col-sm-6 col-md-4 col-md-offset-4" data-toggle="modal" data-target=".bs-example-modal-lg">
                 <br />
                 <img alt="" class="img-responsive " src="Img/Proyectos/Etiquetas/finalizados.png" />
             </figure>

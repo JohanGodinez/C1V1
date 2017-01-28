@@ -24,6 +24,10 @@
                 function() {
                    $(".animate", this).fadeOut(250);
             });
+
+            $('.carousel').carousel({
+                interval: 2000 //changes the speed
+            })
     </script>
 
 </body>

@@ -1,6 +1,40 @@
 <?php
     require 'head.php'
 ?>
+<section>
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+            <img src="Img/Slider/img1.jpg" alt="...">
+                <div class="carousel-caption">
+                    <h2 class="app-titulo">C1V1 Scan</h2>
+                    <p class="app-descripcion">
+                        Los mejores mangas en un solo lugar
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+            <img src="Img/Slider/img2.png" alt="...">
+                <div class="carousel-caption">
+                    <h2 class="app-titulo">Mangas</h2>
+                    <p class="app-descripcion">
+                        Tus mangas favorito, sin molesta publicidad o anuncion.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+            <img src="Img/Slider/img3.jpg" alt="...">
+                <div class="carousel-caption">
+                    <h2 class="app-titulo">Novelas</h2>
+                    <p class="app-descripcion">
+                        Tus mangas favorito, sin molesta publicidad o anuncion.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="app-section2">
     <div class="container">
         <div class="row">

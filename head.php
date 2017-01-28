@@ -12,7 +12,7 @@
 </head>
 <body>
 	<header class="app-header">
-        <nav class="navbar app-navbar">
+        <nav class="navbar app-navbar navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
                     <button class="navbar-toggle" data-toggle="collapse" data-target="#menu">
@@ -20,7 +20,7 @@
                         <span class="icon-bar app-icon"></span>
                         <span class="icon-bar app-icon"></span>
                     </button>
-                    <a href="index.php" class="navbar-brand app-link">Web</a>
+                    <a href="index.php" class="navbar-brand app-link">C1V1</a>
                 </div>
                 <div class="collapse navbar-collapse" id="menu">
                     <ul class="nav navbar-nav navbar-right app-nav">
@@ -32,11 +32,4 @@
                 </div>
             </div>
         </nav>
-        <section class="app-section1">
-            <h1 class="app-titulo">El mejor sitio para leer <span class="app-resaltar">mangas</span> en linea</h1>
-            <p class="app-descripcion">
-                Estas buscando un lugar donde leer tu manga favorito,
-                Sin molesta publicidad o anuncion, facil y sencillo.
-            </p>
-        </section>
 	</header>

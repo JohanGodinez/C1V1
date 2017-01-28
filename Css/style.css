@@ -2,25 +2,16 @@
 .stlMetro{
     border-radius: 0;
 }
-.colorDanger{
-    background: #d43f3a;
-    color: #fff;
-}
-.borderButton{
-    border-bottom: 2px solid #3ba13b;
-}
-
-
-
 .app-header {
-    background: url(../Img/img1.jpg) no-repeat center;
+    /*background: url(../Img/img1.jpg) no-repeat center;*/
     font-family: "Avenir", Futura, Helvetica, sans-serif;
     letter-spacing: 2px;
     text-transform: uppercase;
-    padding-bottom: 80px;
+    /*padding-bottom: 80px;*/
+    /*margin-bottom: -100px;*/
 }
 .app-navbar {
-    background: rgba(0,0,15,0.8);
+    background: rgba(0,0,20,0.8);
     border-radius: 0;
 }
 .app-link {
@@ -51,7 +42,7 @@
 
 .app-titulo{
     text-align: center;
-    color: black;
+    color: white;
     font-size:2.8em;
     margin-bottom: 35px;
 }
@@ -60,7 +51,7 @@
 }
 .app-descripcion{
     text-align:center;
-    color:black;
+    color:white;
     font-size:1em;
     margin-bottom:100px;
 }
@@ -153,6 +144,7 @@ figcaption {
     width: 50px;
     margin: 0 auto;
     display: inline-block;
+    cursor: pointer;
 }
 
 .fansub{
@@ -166,4 +158,16 @@ figcaption {
 .btnBlue:hover{
     background: rgba(0,0,50,.8);
     color:#fefefe;
+}
+
+@media (max-width: 768px){
+    .app-titulo{
+        font-size:1.4em;
+        /*margin-top:20px;*/
+        margin-bottom:10px;
+    }
+    .app-descripcion{
+        font-size:0.8em;
+        margin-bottom:-10px;
+    }
 }
