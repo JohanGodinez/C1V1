@@ -171,6 +171,7 @@
         </div>
         <div class="modal-footer">
             <button type="button" class="btn btn-default stlMetro" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-default stlMetro btnBlue" data-dismiss="modal">Leer</button>
         </div>
     </div>
     </div>
