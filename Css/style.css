@@ -170,4 +170,7 @@ figcaption {
         font-size:0.8em;
         margin-bottom:-10px;
     }
+    .slide{
+        top:50px;
+    }
 }
