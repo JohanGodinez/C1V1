@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html ng-app>
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +9,7 @@
 	<script type="text/javascript" src="Js/jquery-2.1.3.min.js"></script>
 	<script type="text/javascript" src="Js/bootstrap.min.js"></script>
     <script type="application/javascript" src="Js/angular.min.js"></script>
+    <script type="application/javascript" src="Js/proyectos.js"></script>
 </head>
 <body>
 	<header class="app-header">
