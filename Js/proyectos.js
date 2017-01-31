@@ -1,8 +1,11 @@
 function ProyectoController ($scope) {
     $scope.proyectos = [
-         {id: "#1", titulo : "Alyosha!",
+         {id: "alyosha", id2:"#alyosha", titulo : "Alyosha!",
         descripcion : "La estudiante de intercambio Alyosha Stalina ha estado asistiendo a una escuela japonesa secundaria durante tres meses. Ella viene de la nación de Solessia, pero todavía no logra encajar con los otros estudiantes debido a su actitud hostil y fría. No se podía esperar más, ya que Alyosha realmente es una asesina entrenada que ha ido asesinando gente desde que tenía cinco años de edad. Su última y más reciente misión es asesinar al presidente de Solessia que asistirá a la escuela secundaria donde se ha infiltrado durante tres meses. Sin embargo, la misión es cancelada y se le ordenó permanecer como una estudiante normal. Lo único que Alyosha saber hacer es asesinar, y nunca ha aprendido a ser una adolescente normal. ¿Será Alyosha capaz de completar la misión más difícil que le han dado?",
-        img : "Img/Proyectos/Otras/Alyosha.jpg"}
+        img : "Img/Proyectos/Otras/Alyosha.jpg"},
+        {id: "onePiece", id2:"#onePiece" , titulo : "One Piece",
+        descripcion : "One Piece el manga con el recor gines en ventas...",
+         img : "Img/Proyectos/Otras/Alyosha.jpg"}
     ];
     $scope.listaactivos = [
          {id: "#1",titulo : "Alyosha!",img : "Img/Proyectos/Alyosha.png"},
