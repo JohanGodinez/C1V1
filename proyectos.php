@@ -38,9 +38,9 @@
         </div>
     </div>
 </section>
-</div>
+    </div>
 <section ng-controller="ProyectoController">
-    <div class="modal fade {{x.id}}" tabindex="-1" role="dialog" ng-repeat="x in proyectos">
+    <div class="modal fade" id={{x.id}} tabindex="-1" role="dialog" ng-repeat="x in proyectos">
         <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content stlMetro">
             <div class="modal-header">
