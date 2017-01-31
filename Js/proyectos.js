@@ -8,7 +8,7 @@ function ProyectoController ($scope) {
          img : "Img/Proyectos/Otras/Alyosha.jpg"}
     ];
     $scope.listaactivos = [
-         {id: "alyosha",titulo : "Alyosha!",img : "Img/Proyectos/Alyosha.png"},
+         {id: "#alyosha",titulo : "Alyosha!",img : "Img/Proyectos/Alyosha.png"},
          {id: "2",titulo : "Baito Saki Wa Aku No Sochiki",img : "Img/Proyectos/BaitoSakiWa.png"},
          {id: "3",titulo : "Boku To Rune To Aoarachi",img : "Img/Proyectos/BokuToRune.png"},
          {id: "4",titulo : "Carcaptor Sakura - Clear Card Arc",img : "Img/Proyectos/Carcaptor.png"},
