@@ -12,7 +12,7 @@
         </div>
         <div class="row">
             <div ng-repeat="list in listaactivos">
-                <figure class="col-xs-12 col-sm-6 col-md-3" data-toggle="modal" data-target=".bs-example-modal-lg">
+                <figure class="col-xs-12 col-sm-6 col-md-3" data-toggle="modal" data-target={{list.id}}>
                     <br />
                     <img alt="" class="img-responsive " src={{list.img}} />
                 </figure>
@@ -40,7 +40,7 @@
 </section>
 </div>
 <section ng-controller="ProyectoController">
-    <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" ng-repeat="x in proyectos">
+    <div class="modal fade {{x.id}}" tabindex="-1" role="dialog" ng-repeat="x in proyectos">
         <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content stlMetro">
             <div class="modal-header">
