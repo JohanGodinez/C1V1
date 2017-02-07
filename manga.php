@@ -4,9 +4,6 @@
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-            <img src="Img/Toumei/Toumei%201/img000001.png" alt="...">
-            </div>
-            <div class="item">
             <img src="Img/Toumei/Toumei%201/img000002.png" alt="...">
             </div>
             <div class="item">
@@ -115,3 +112,9 @@
         </div>
     </div>
 </section>
+
+<script type="text/javascript">
+            $('.carousel').carousel({
+                interval: false //changes the speed
+            })
+    </script>
