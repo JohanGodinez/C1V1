@@ -1,6 +1,6 @@
 <?php require "head.php";?>
 
-<section class="col-md-6 col-md-offset-3">
+<section class="">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div class="item active">
