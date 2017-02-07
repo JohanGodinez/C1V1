@@ -115,6 +115,7 @@
 
 <script type="text/javascript">
             $('.carousel').carousel({
+                pause: true,
                 interval: false //changes the speed
-            })
+            });
     </script>
