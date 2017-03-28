@@ -2,7 +2,7 @@
     require 'head.php'
 ?>
 <div class="col-md-12">
-    <input type="text" name="buscar" placeholder="Titulo" ng-model="buscartxt"/>
+    <input type="text" name="buscar" placeholder="Titulo" ng-model="buscartxt" />
 </div>
 <div ng-controller="ProyectoController">
 <section class="app-section2">
@@ -14,7 +14,7 @@
             </figure>
         </div>
         <div class="row">
-            <div ng-repeat="list in listaactivos | filter:{Titulo:$buscartxt}">
+            <div ng-repeat="list in listaactivos | filter:{Titulo:{{buscartxt}}}">
                 <figure class="col-xs-12 col-sm-4 col-md-3" data-toggle="modal" data-target={{list.id}}>
                     <br />
                     <img alt="" class="img-responsive " src={{list.img}} />
