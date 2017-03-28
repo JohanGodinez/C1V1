@@ -2,7 +2,7 @@
     require 'head.php'
 ?>
 <div class="col-md-12">
-    <input type="text" name="buscar" placeholder="Titulo" ng-model="buscartxt" />
+    <input type="text" class="form-control" name="buscar" placeholder="Titulo" ng-model="buscartxt" />
 </div>
 <div ng-controller="ProyectoController">
 <section class="app-section2">
