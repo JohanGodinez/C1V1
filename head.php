@@ -30,6 +30,11 @@
                         <li><a href="staff.php">Staff</a></li>
                         <li><a href="fansub.php">Fansub</a></li>
                     </ul>
+			<form class="navbar-form navbar-right" role="search">
+			  <div class="form-group">
+			    <input type="text" class="form-control" placeholder="Buscar" ng-model="search.titulo">
+			  </div>
+			</form>
                 </div>
             </div>
         </nav>
