@@ -1,7 +1,8 @@
 <?php
     require 'head.php'
 ?>
-<div class="col-md-12">
+<div class="col-md-3 right">
+    <label class="control-label">Buscar : </label>
     <input type="text" class="form-control" name="buscar" placeholder="Titulo" ng-model="search.titulo" >
 </div>
 <div ng-controller="ProyectoController">
