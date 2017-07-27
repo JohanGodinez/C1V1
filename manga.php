@@ -3,11 +3,11 @@
     .img-responsive{
         width: 100%;
     }
-    section{
+    h2{
         margin-top: 5%;
     }
 </style>
-<h4 class="text-center">Toumei Ningen no Tsukurikata</h4>
+<h2 class="text-center">Toumei Ningen no Tsukurikata</h2>
 <section class="col-md-8 col-md-offset-2">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
