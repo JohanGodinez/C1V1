@@ -116,9 +116,7 @@
         </div>
     </div>
 </section>
-<?php
-    require 'footer.php'
-?>
+
 <script type="text/javascript">
             $('#mangaread').carousel({
                 pause: true,
