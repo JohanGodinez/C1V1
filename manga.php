@@ -11,8 +11,7 @@
     }
 </style>
 <h2 class="text-center">Toumei Ningen no Tsukurikata</h2>
-<section class="col-md-8 col-md-offset-2">
-    <div class="container">
+<section class="col-md-8 col-md-offset-2 app-section2">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div class="item active">
@@ -115,7 +114,6 @@
               <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
               </a>
         </div>
-    </div>
     </div>
 </section>
 <?php
