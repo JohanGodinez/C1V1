@@ -6,8 +6,8 @@
     h2{
         margin-top: 5%;
     }
-    section{
-        margin-botton: 5%;
+    section {
+        margin-bottom: 5%;
     }
 </style>
 <h2 class="text-center">Toumei Ningen no Tsukurikata</h2>
