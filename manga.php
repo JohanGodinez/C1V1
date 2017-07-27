@@ -6,6 +6,9 @@
     h2{
         margin-top: 5%;
     }
+    section{
+        margin-botton: 5%;
+    }
 </style>
 <h2 class="text-center">Toumei Ningen no Tsukurikata</h2>
 <section class="col-md-8 col-md-offset-2">
@@ -116,7 +119,9 @@
         </div>
     </div>
 </section>
-
+<?php
+    require 'footer.php'
+?>
 <script type="text/javascript">
             $('.carousel').carousel({
                 pause: true,
