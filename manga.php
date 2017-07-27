@@ -12,7 +12,7 @@
 </style>
 <h2 class="text-center">Toumei Ningen no Tsukurikata</h2>
 <section class="col-md-8 col-md-offset-2">
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <div id="carousel-example-generic" class="carousel slide" id="mangaread" data-ride="mangaread">
         <div class="carousel-inner" role="listbox">
             <div class="item active">
             <img src="Img/Toumei/Toumei%201/img000002.png" alt="..." class="img-responsive">
@@ -120,7 +120,7 @@
     require 'footer.php'
 ?>
 <script type="text/javascript">
-            $('.carousel').carousel({
+            $('#mangaread').carousel({
                 pause: true,
                 interval: false //changes the speed
             });
