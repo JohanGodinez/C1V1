@@ -1,10 +1,18 @@
 <?php require "head.php";?>
-
-<section class="col-md-4 col-md-offset-4">
+<style>
+    .img-responsive{
+        width: 100%;
+    }
+    section{
+        margin-top: 5%;
+    }
+</style>
+<h4 class="text-center">Toumei Ningen no Tsukurikata</h4>
+<section class="col-md-8 col-md-offset-2">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-            <img src="Img/Toumei/Toumei%201/img000002.png" alt="...">
+            <img src="Img/Toumei/Toumei%201/img000002.png" alt="..." class="img-respinsive">
             </div>
             <div class="item">
             <img src="Img/Toumei/Toumei%201/img000003.png" alt="..." class="img-responsive">
