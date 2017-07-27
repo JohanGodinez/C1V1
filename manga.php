@@ -11,7 +11,7 @@
     }
 </style>
 <h2 class="text-center">Toumei Ningen no Tsukurikata</h2>
-<section class="col-md-8 col-md-offset-2 app-section2">
+<section class="col-md-8 col-md-offset-2">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div class="item active">
