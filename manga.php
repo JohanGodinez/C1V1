@@ -12,6 +12,7 @@
 </style>
 <h2 class="text-center">Toumei Ningen no Tsukurikata</h2>
 <section class="col-md-8 col-md-offset-2">
+    <div class="container">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div class="item active">
@@ -61,9 +62,6 @@
             </div>
             <div class="item">
             <img src="Img/Toumei/Toumei%201/img000017.png" alt="..." class="img-responsive">
-            </div>
-            <div class="item">
-            <img src="Img/Toumei/Toumei%201/img000018.png" alt="..." class="img-responsive">
             </div>
             <div class="item">
             <img src="Img/Toumei/Toumei%201/img000019.png" alt="..." class="img-responsive">
@@ -117,6 +115,7 @@
               <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
               </a>
         </div>
+    </div>
     </div>
 </section>
 <?php
